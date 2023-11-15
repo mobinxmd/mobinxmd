@@ -6,7 +6,7 @@ You can click the Preview link to take a look at your changes.
 # 💫 About Me:
 👋 Hi, I’m I'M A FRONT-END DEVELOPER,
  <br>WHO IS PASSIONATE ABOUT MODIFYING THE WORLD OF WEB,
- <br>TO FEEL ALIVE & CREATIVE.
+ <br>TO MAKE IT FEEL ALIVE & CREATIVE.
 
 
 ## 🌐 Socials:
